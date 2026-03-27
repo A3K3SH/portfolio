@@ -47,7 +47,7 @@ export default function ResumePage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <embed
-            src="/Aakash%20Swain%20resume.pdf#toolbar=1&navpanes=0&scrollbar=1"
+            src="/Aakash%20Swain%20resume.pdf#toolbar=0&navpanes=0&scrollbar=1"
             type="application/pdf"
             className="w-full"
             style={{ height: 'calc(100vh - 120px)' }}
