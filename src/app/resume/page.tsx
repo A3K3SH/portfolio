@@ -29,8 +29,8 @@ export default function ResumePage() {
             
             <div className="flex items-center gap-6">
               <a
-                href="/aakash-swain-resume.pdf"
-                download="aakash-swain-resume.pdf"
+                href="/Aakash%20Swain%20resume.pdf"
+                download="Aakash Swain resume.pdf"
                 className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -47,7 +47,7 @@ export default function ResumePage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <embed
-            src="/aakash-swain-resume.pdf#toolbar=1&navpanes=0&scrollbar=1"
+            src="/Aakash%20Swain%20resume.pdf#toolbar=1&navpanes=0&scrollbar=1"
             type="application/pdf"
             className="w-full"
             style={{ height: 'calc(100vh - 120px)' }}
